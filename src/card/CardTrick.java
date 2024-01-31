@@ -1,3 +1,5 @@
+package card;
+
 import java.util.Scanner;
 
 public class CardTrick {
