@@ -13,6 +13,7 @@ public class CardTrick {
             c.setValue((int) (Math.random() * 13) + 1); // Random value between 1 and 13
             c.setSuit(Card.SUITS[(int) (Math.random() * 4)]); // Random suit from the suits array
             magicHand[i] = c;
+            //
         }
 
         // Add one luck card hardcoded (2, clubs)
